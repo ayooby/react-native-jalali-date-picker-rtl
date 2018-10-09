@@ -1,6 +1,6 @@
 {
   "name": "react-native-jalali-date-picker-rtl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple and clean datepicker",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mgolkardev/react-native-jalali-date-picker-rtl.git"
+    "url": "git+https://github.com/ayooby/react-native-jalali-date-picker-rtl.git"
   },
   "keywords": [
     "DatePicker",
@@ -20,7 +20,7 @@
   "author": "Mohammad Goldast, Reza Ghorbani, Mohammad Golkar (rtl version)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mgolkardev/react-native-jalali-date-picker-rtl/issues"
+    "url": "https://github.com/ayooby/react-native-jalali-date-picker-rtl/issues"
   },
-  "homepage": "https://github.com/mgolkardev/react-native-jalali-date-picker-rtl#readme"
+  "homepage": "https://github.com/ayooby/react-native-jalali-date-picker-rtl#readme"
 }
